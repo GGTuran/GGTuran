@@ -1,8 +1,11 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tayyab Ameri Turan
 
-## Web Developer
+ <img
+      src="https://i.ibb.co.com/m9P9bxq/Black-Modern-Personal-Linked-In-Banner.png"
+      alt=""
+    />
 
-I've been learning code for more than one year.First i started to learn HTML,CSS,Javascript.Then i learned React.js,node.js,express.js. Recently i have learned postgreSQL. Now i want to learn Data Science. I already have started my progress by learning basic Python
+I have been learning to code for over a year now. I started with HTML, CSS, and JavaScript, then progressed to React.js, Node.js, and Express.js. Recently, I learned PostgreSQL. Currently, I am exploring the fundamentals of Data Science. I already have started my progress by learning basic Python
 
 - 🌍 I'm based in Chattogram, Bangladesh
 - ✉️ You can contact me at [tayyabamerituran@gmail.com](mailto:tayyabamerituran@gmail.com)
